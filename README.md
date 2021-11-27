@@ -20,13 +20,13 @@
 ```
 ┏━━━━━━━━━━━━━━━━━━━ ━━━━━━━━━━━━━━━━━━━━
 
-┣•➳➠ telescope I’m currently working on ...zapPYTHON PHP JAVA Scriptszap
+┣•➳➠ telescope I’m currently working on ...Nothing😅.
 
-┣•➳➠ seedling I’m currently learning ... zapTelegram and instagram botszap
+┣•➳➠ seedling I’m currently learning ... Telegram Bot😊.
 
-┣•➳➠ dancers I’m looking to collaborate on ...zapSof..project..scripts..zap
+┣•➳➠ dancers I’m looking to collaborate on ...Nothing😅
 
-┣•➳➠ thinking I’m looking for help with ...zaprepositories & projectszap
+┣•➳➠ thinking I’m looking for help with ...Repositories & Projects
 
 ┣•➳➠ mailbox How to reach me: ...&&&&&&&&
 
