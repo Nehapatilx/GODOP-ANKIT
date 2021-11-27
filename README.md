@@ -3,17 +3,18 @@
 <p align='Middle'><a href='https://t.me/GODOPBOY'><img src='https://te.legra.ph/file/5f1cf8dce076ee7558b46.jpg' width='750"'></a></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Java%2C+Linux%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+Linux%E2%9D%A4%EF%B8%8F">
 </p> 
 <br>
 
-- Name = "ANKIT KUMAR"
+- Name = ```ANKIT KUMAR```
 
-- Class = "9th"
+- Class = 9th
 
-- Age = "14"
+- Age = 14
 
 - Country = "🇮🇳"
+
 <br>
   
 <!---
