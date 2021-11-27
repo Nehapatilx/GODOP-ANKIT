@@ -16,6 +16,26 @@
 - Country = "🇮🇳"
 
 <br>
+
+```
+┏━━━━━━━━━━━━━━━━━━━ ━━━━━━━━━━━━━━━━━━━━
+
+┣•➳➠ telescope I’m currently working on ...zapPYTHON PHP JAVA Scriptszap
+
+┣•➳➠ seedling I’m currently learning ... zapTelegram and instagram botszap
+
+┣•➳➠ dancers I’m looking to collaborate on ...zapSof..project..scripts..zap
+
+┣•➳➠ thinking I’m looking for help with ...zaprepositories & projectszap
+
+┣•➳➠ mailbox How to reach me: ...&&&&&&&&
+
+┣•➳➠ smile Pronouns: ...$$$$$$$$$$
+
+┣•➳➠ zap Fun fact: ...##########
+
+┗━━━━━━━━━━━━━━━━━━━ ━━━━━━━━━━━━━━━━━━━
+```
   
 <!---
 GODOP-ANKIT/GODOP-ANKIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
