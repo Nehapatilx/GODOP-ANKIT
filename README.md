@@ -22,6 +22,15 @@
 
 
 
+<details>
+  <summary> • 💮NAME💮• </summary>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=ANKIT+KUMAR%E2%9D%A4%EF%B8%8F">
+</p>
+</details>
+
+
+
 <!---
 GODOP-ANKIT/GODOP-ANKIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
