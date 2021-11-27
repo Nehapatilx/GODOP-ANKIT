@@ -5,36 +5,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+PROGRAMMER+AND+DEVELOPER+FROM+INDIA%E2%9C%8C%EF%B8%8F;NOOB+IN+CODINGS%E2%9D%A4%EF%B8%8F">
 </p> 
-<br>
-
-- Name = ```ANKIT KUMAR```
-
-- Class = 9th
-
-- Age = 14
-
-- Country = "🇮🇳"
-
-<br>
 
 ```
-┏━━━━━━━━━━━━━━━━━━━ ━━━━━━━━━━━━━━━━━━━━
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-┣•➳➠ telescope I’m currently working on ...Nothing😅.
+┣•➳➠ Name : Ankit Kumar
 
-┣•➳➠ seedling I’m currently learning ... Telegram Bot😊.
+┣•➳➠ Age : 13
 
-┣•➳➠ dancers I’m looking to collaborate on ...Nothing😅
+┣•➳➠ Country : India
 
-┣•➳➠ thinking I’m looking for help with ...Repositories & Projects
-
-┣•➳➠ mailbox How to reach me: ...&&&&&&&&
-
-┣•➳➠ smile Pronouns: ...$$$$$$$$$$
-
-┣•➳➠ zap Fun fact: ...##########
-
-┗━━━━━━━━━━━━━━━━━━━ ━━━━━━━━━━━━━━━━━━━
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
   
 <!---
