@@ -3,7 +3,7 @@
 <p align='Middle'><a href='https://t.me/GODOPBOY'><img src='https://te.legra.ph/file/5f1cf8dce076ee7558b46.jpg' width='750"'></a></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+PROGRAMMER+AND+DEVELOPER+FROM+INDIA%E2%9C%8C%EF%B8%8F;NOOB+IN+CODINGS%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=%E2%9C%8C%EF%B8%8F;NOOB+IN+CODINGS%E2%9D%A4%EF%B8%8F">
 </p> 
 
 
@@ -20,18 +20,6 @@
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=ᴅᴏɴ'ᴛ+ʙʀᴇᴀᴋ+ᴛʜᴇ+ʜᴇᴀʀᴛ+ᴏғ+ᴛʜᴇ+ʜᴀᴄᴋᴇʀ%E2%9D%A4%EF%B8%8F">
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=ʙᴇᴄᴀᴜsᴇ+ʏᴏᴜ+ᴅᴏɴ'ᴛ+ᴡʜᴀᴛ+ᴡɪʟʟ+ʜᴀᴘᴘᴇɴ+ᴛʜᴇɴ+😌%E2%9D%A4%EF%B8%8F">
-</p>
 
 
 
