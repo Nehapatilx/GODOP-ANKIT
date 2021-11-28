@@ -29,6 +29,9 @@
 </p>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=ʙᴇᴄᴀᴜsᴇ+ʏᴏᴜ+ᴅᴏɴ'ᴛ+ᴡʜᴀᴛ+ᴡɪʟʟ+ʜᴀᴘᴘᴇɴ+ᴛʜᴇɴ+😌%E2%9D%A4%EF%B8%8F">
+</p>
 
 
 
