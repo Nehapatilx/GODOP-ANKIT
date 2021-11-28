@@ -1,28 +1,27 @@
 <h2 align="center"><b> ⠐Personal Information ⠐ </b></h2>
 
-<p align='Middle'><a href='https://t.me/GODOPBOY'><img src='https://te.legra.ph/file/5f1cf8dce076ee7558b46.jpg' width='450"'></a></p>
+<p align='Middle'><a href='https://t.me/GODOPBOY'><img src='https://te.legra.ph/file/5f1cf8dce076ee7558b46.jpg' width='750"'></a></p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=NOOB+IN+CODINGS%E2%9C%8C%EF%B8%8F;NOOB+IN+CODINGS%E2%9D%A4%EF%B8%8F">
 </p> 
 
 
-         ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-         ┣•➳➠ ```Name``` : ```Ankit Kumar```
+┣•➳➠ ```Name``` : ```Ankit Kumar```
 
-         ┣•➳➠ ```Age``` : ```14```
+┣•➳➠ ```Age``` : ```14```
 
-         ┣•➳➠ ```Country``` : ```India```
+┣•➳➠ ```Country``` : ```India```
 
-         ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-         ```
-
-         💙DON'T BREAK MY HEART BECAUSE YOU DON'T KNOW WHAT WILL HAPPEN THEN😌💙
-
-         ```
+```
+💙DON'T BREAK MY HEART BECAUSE YOU DON'T KNOW WHAT WILL HAPPEN THEN😌💙
+ ```
 
 
 
