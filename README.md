@@ -9,6 +9,12 @@
 
 
 
+
+
+
+
+
+
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ┣•➳➠ ```Name``` : ```Ankit Kumar```
@@ -19,12 +25,6 @@
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=ANKIT+KUMAR%E2%9D%A4%EF%B8%8F">
-</p>
 
 
 
