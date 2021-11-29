@@ -20,9 +20,9 @@
 ┣•➳➠ ```Country``` : ```India```
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-╔─━━♡︎━━━━░𖣔❤︎𖣔░━━━♡︎━━━─╗
-                  Telegram Account 
-                    [@GODOPBOY](https://t.me/GODOPBOY)
+╔─━━♡︎━━━━░𖣔❤︎𖣔░━━━♡︎━━━─╗\n
+                  Telegram Account\n
+                    [@GODOPBOY](https://t.me/GODOPBOY)\n
                        
        ╚─━━━━━━░💘░━━━━━━─╝
 
