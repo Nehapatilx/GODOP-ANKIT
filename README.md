@@ -47,10 +47,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Thank+You+🌷%E2%9D%A4%EF%B8%8F">
-</p> 
-
-
+<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Thank+You+🌷">
 
 
 
