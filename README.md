@@ -48,7 +48,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GODOP-ANKIT&layout=compact&theme=radical)
 
 
-
+[![TROPHY](https://github-profile-trophy.vercel.app/?username=GODOP-ANKIT&theme=monokai)](https://github.com/GODOP-ANKIT)
 
 <!---
 GODOP-ANKIT/GODOP-ANKIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
