@@ -34,7 +34,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GODOP-ANKIT&layout=compact&theme=radical)](https://github.com/GODOP-ANKIT)
 
 
-<h3 align="left"><b> Trophy</b></h3>
+<h3 align="left"><b> Trophys</b></h3>
 [![TROPHY](https://github-profile-trophy.vercel.app/?username=GODOP-ANKIT&theme=monokai)](https://github.com/GODOP-ANKIT)
 
 <!---
