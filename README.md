@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="200px">
 
 
 
@@ -34,7 +34,7 @@
  ```
 
 
-## 📊 Stats
+
 
 <h3 align="left"><b>My GitHub Stats💛</b></h4>
 
