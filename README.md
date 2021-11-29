@@ -1,13 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100px">
 
 
-
-
-
-
-
-
-
 <h2 align="center"><b> ⠐Personal Information ⠐ </b></h2>
 
 <p align='Middle'><a href='https://t.me/GODOPBOY'><img src='https://te.legra.ph/file/5f1cf8dce076ee7558b46.jpg' width='750"'></a></p>
@@ -54,6 +47,8 @@
 
 
 
+<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Thank+You+🌷%E2%9D%A4%EF%B8%8F">
+</p> 
 
 
 
