@@ -19,12 +19,9 @@
 
 ┣•➳➠ ```Country``` : ```India```
 
+┣•➳➠```Telegram Id```: [LEO](https://t.me/GODOPBOY)
+
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-╔─━━♡︎━━━━░𖣔❤︎𖣔░━━━♡︎━━━─╗\n
-                  Telegram Account\n
-                    [@GODOPBOY](https://t.me/GODOPBOY)\n
-                       
-       ╚─━━━━━━░💘░━━━━━━─╝
 
 ```
 💙DON'T BREAK MY HEART BECAUSE YOU DON'T KNOW WHAT WILL HAPPEN THEN😌💙
