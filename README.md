@@ -25,10 +25,6 @@
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-```
-💙DON'T BREAK MY HEART BECAUSE YOU DON'T KNOW WHAT WILL HAPPEN THEN😌💙
- ```
-
 
 
 
