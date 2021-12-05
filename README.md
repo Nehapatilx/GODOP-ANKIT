@@ -27,10 +27,16 @@
 
 
 
+## Github Stats
 
-<h3 align="left"><b>My GitHub Stats💛</b></h4>
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODOP-ANKIT&show_icons=true&theme=synthwave)
 
-[![GODOP-ANKIT STATS](https://github-readme-stats.vercel.app/api?username=GODOP-ANKIT&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/GODOP-ANKIT)
+# Activity Graph
+
+![Ankit's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=GODOP-ANKIT&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
+
+
+
 
 
 
