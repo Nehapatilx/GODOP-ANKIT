@@ -46,9 +46,9 @@
 
 
 
-<h3 align="left"><b> Trophys</b></h3>
 
-[![TROPHY](https://github-profile-trophy.vercel.app/?username=GODOP-ANKIT&theme=synthwave)](https://github.com/GODOP-ANKIT)
+
+
 
 
 
