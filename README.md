@@ -1,5 +1,4 @@
 <h2 align="center"><b> ⠐Personal Information ⠐ </b></h2>
-
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ┣•➳➠ ```Name``` : ```Ankit Kumar```
@@ -10,21 +9,17 @@
 
 ┣•➳➠```Telegram Id```: [ANKIT](https://t.me/GODOPBOY)
 
-┣•➳➠```Github Id```: [GODOP-ANKIT](https://github.com/GODOP-ANKIT)
-
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
 
 ## Github Stats
-
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODOP-ANKIT&show_icons=true&theme=midnight-purple)
 ![Ankit's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=GODOP-ANKIT&theme=midnight-purple&show_icon=true)
 
 
 
 <h3 align="left"><b> Top Used Languages </b></h3>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GODOP-ANKIT&layout=compact&theme=midnight-purple)](https://github.com/GODOP-ANKIT)
 
 
