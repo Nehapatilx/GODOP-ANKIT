@@ -6,9 +6,9 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=NOOB+IN+CODINGS%E2%9C%8C%EF%B8%8F;NOOB+IN+CODINGS%E2%9D%A4%EF%B8%8F">
-</p> 
+
+
+
 
 
 <h2 align="center"><b> ⠐Personal Information ⠐ </b></h2>
@@ -39,7 +39,7 @@
 
 # Activity Graph
 
-![Ankit's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=GODOP-ANKIT&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
+![Ankit's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=GODOP-ANKIT&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea&theme=midnight-purple)
 
 
 
