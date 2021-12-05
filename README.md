@@ -1,20 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h2 align="center"><b> ⠐Personal Information ⠐ </b></h2>
-
-
-
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -37,13 +21,6 @@
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODOP-ANKIT&show_icons=true&theme=midnight-purple)
 ![Ankit's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=GODOP-ANKIT&theme=midnight-purple&show_icon=true)
 
-# Activity Graph
-
-![Ankit's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=GODOP-ANKIT&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea&&theme=midnight-purple)
-
-
-
-
 
 
 <h3 align="left"><b> Top Used Languages </b></h3>
@@ -52,15 +29,7 @@
 
 
 
-
-
-
-
-
-
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Thank+You+🌷+Love+You+😝">
-
-
 
 
 <!---
