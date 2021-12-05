@@ -1,4 +1,4 @@
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100px">
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" wiw
 
 
 <h2 align="center"><b> ⠐Personal Information ⠐ </b></h2>
