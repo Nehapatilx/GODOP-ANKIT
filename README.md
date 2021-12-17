@@ -24,7 +24,7 @@
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
-```»»»『⚜ Hacking Is Not A Crime,⚜Its A Profession ,⚜We Dont Hack To Impress ⚜We Hack To Express♥️』«««••```
+```»»»『Hacking Is Not A Crime,Its A Profession,We Dont Hack To Impress,We Hack To Express♥️』«««••```
 
 
 
