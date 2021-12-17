@@ -17,7 +17,7 @@
 
 ┣•➳➠```Telegram Id```: [ANKIT](https://t.me/GODOPBOY)
 
-┣•➳➠```Line By Me```:```ɴᴇᴠᴇʀ ʟᴏᴏsᴇ ᴜʀ ᴘᴇʀᴍᴀɴᴇɴᴇᴛ sᴍɪʟᴇ ғᴏʀ ᴀ ᴛᴇᴍᴘᴏʀᴀʀʏ ᴍᴀᴅʜᴀʀᴄʜᴏᴅ ɪɴ ᴜʀ ʟɪғᴇ```
+┣•➳➠```Line By Me```:```Never Loose Your Permanent Smile For A Temporary Madharchod In Your Life```
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
