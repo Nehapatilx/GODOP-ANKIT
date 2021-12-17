@@ -2,7 +2,7 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?color=0c0c0d&size=50&center=true&vCenter=true&width=450&lines=Hello+there!;+I'm+Ankit+Kumar">
 
-  &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
+  &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
 </h1>
 
@@ -15,7 +15,7 @@
 
 ┣•➳➠ ```Country``` : ```India```
 
-┣•➳➠```Telegram Id```: [ANKIT](https://t.me/GODOPBOY) & [ANKIT](https://t.me/GODOP_ANKIT)
+┣•➳➠```Telegram Id```: [ANKIT](https://t.me/GODOPBOY)
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
