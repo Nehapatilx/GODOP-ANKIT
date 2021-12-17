@@ -23,6 +23,11 @@
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+
+```»»»『⚜ Hacking Is Not A Crime,⚜Its A Profession ,⚜We Dont Hack To Impress ⚜We Hack To Express♥️』«««••```
+
+
+
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODOP-ANKIT&show_icons=true&theme=midnight-purple)
 
 ![Ankit's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=GODOP-ANKIT&theme=midnight-purple&show_icon=true)
