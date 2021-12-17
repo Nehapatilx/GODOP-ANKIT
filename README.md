@@ -12,7 +12,7 @@
 
 ┣•➳➠ ```Country``` : ```India```
 
-┣•➳➠```Telegram Id```: [©ANKIT™](https://t.me/GODOPBOY)
+┣•➳➠```Github Id```: [©ANKIT™](https://github.com/GODOP-ANKIT)
 
 ┣•➳➠```School```:```JAWAHAR NAVODAYA VIDYALAYA PALGHAR/THANE```
 
