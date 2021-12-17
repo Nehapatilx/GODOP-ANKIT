@@ -15,9 +15,11 @@
 
 ┣•➳➠ ```Country``` : ```India```
 
-┣•➳➠```Telegram Id```: [ANKIT](https://t.me/GODOPBOY)
+┣•➳➠```Telegram Id```: [©ANKIT™](https://t.me/GODOPBOY)
 
-┣•➳➠```School```:```JAWAHAR NAVODAYA VIDYALAYA PALGHAR/Thane```
+┣•➳➠```School```:```JAWAHAR NAVODAYA VIDYALAYA PALGHAR/THANE```
+
+┣•➳➠```Class```:```9th```
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
