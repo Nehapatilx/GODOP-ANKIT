@@ -2,7 +2,7 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?color=0c0c0d&size=50&center=true&vCenter=true&width=450&lines=Hello+there!;+I'm+Ankit+Kumar">
 
-  &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+  &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25">
 
 </h1>
 
