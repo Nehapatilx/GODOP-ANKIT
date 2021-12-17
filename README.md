@@ -17,7 +17,7 @@
 
 ┣•➳➠```Telegram Id```: [ANKIT](https://t.me/GODOPBOY)
 
-┣•➳➠```Line By Me```:```Never Loose Your Permanent Smile For A Temporary Madharchod In Your Life```
+┣•➳➠```My Own Word's```:```Never Loose Your Permanent Smile For A Temporary Madharchod In Your Life```
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
