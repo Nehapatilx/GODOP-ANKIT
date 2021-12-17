@@ -1,9 +1,6 @@
 <h1 align="center">
-
   <img src="https://readme-typing-svg.herokuapp.com?color=0c0c0d&size=50&center=true&vCenter=true&width=450&lines=Hello+there!;+I'm+Ankit+Kumar">
-
   &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-
 </h1>
 
 <h2 align="center"><b> ⠐Personal Information ⠐ </b></h2>
@@ -22,11 +19,6 @@
 ┣•➳➠```Class```:```9th```
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-
-```»»»『🔱Hacking Is Not A Crime🔱』«««••\n••»»»『🔱Its A Profession🔱』«««••\n••»»»『🔱We Dont Hack To Impress🔱』«««••\n••»»»『🔱We Hack To Express♥️』«««••```
-
-
 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODOP-ANKIT&show_icons=true&theme=midnight-purple)
 
