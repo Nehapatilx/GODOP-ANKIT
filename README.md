@@ -17,7 +17,7 @@
 
 ┣•➳➠```Telegram Id```: [ANKIT](https://t.me/GODOPBOY)
 
-┣•➳➠```My Own Word's```:```Never Loose Your Permanent Smile For A Temporary Madharchod In Your Life```
+┣•➳➠```School```:```JAWAHAR NAVODAYA VIDYALAYA PALGHAR/Thane```
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
