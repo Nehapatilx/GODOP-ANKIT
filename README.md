@@ -20,8 +20,8 @@
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-```『ɢɪʀʟғʀɪᴇɴᴅ अपनी हो या पराई सबसे प्यार करो,
-छोटी सी जिंदगी है इसमे क्या अपना पराया देखना』```
+『ɢɪʀʟғʀɪᴇɴᴅ अपनी हो या पराई सबसे प्यार करो,
+छोटी सी जिंदगी है इसमे क्या अपना पराया देखना』
 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODOP-ANKIT&show_icons=true&theme=midnight-purple)
 
