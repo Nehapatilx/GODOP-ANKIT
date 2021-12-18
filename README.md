@@ -20,6 +20,16 @@
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODOP-ANKIT&show_icons=true&theme=midnight-purple)
+
+![Ankit's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=GODOP-ANKIT&theme=midnight-purple&show_icon=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GODOP-ANKIT&layout=compact&theme=midnight-purple)](https://github.com/GODOP-ANKIT)
+
+<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Thank+You+🌷+Love+You+😝">
+
+[![Metrics](https://metrics.lecoq.io/GODOP-ANKIT?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/GODOPBOY)
+ 
 <details>
   <summary>Just For Chill Don't Take Seriosly</summary>
 『ɢɪʀʟғʀɪᴇɴᴅ अपनी हो या पराई सबसे प्यार करो,
@@ -39,17 +49,6 @@
 ι ∂σи'т ωαииα αиуσиє тσ ¢σитяσℓ мє..😐
 му gσαℓѕ я ιмρσятαит тнαи ℓσνє..🤗✰』
 </details>
-
-
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODOP-ANKIT&show_icons=true&theme=midnight-purple)
-
-![Ankit's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=GODOP-ANKIT&theme=midnight-purple&show_icon=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GODOP-ANKIT&layout=compact&theme=midnight-purple)](https://github.com/GODOP-ANKIT)
-
-<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Thank+You+🌷+Love+You+😝">
-
-[![Metrics](https://metrics.lecoq.io/GODOP-ANKIT?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/GODOPBOY)
 
 <!---
 GODOP-ANKIT/GODOP-ANKIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
