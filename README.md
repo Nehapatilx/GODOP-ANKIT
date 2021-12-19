@@ -26,9 +26,13 @@
 [![Github](https://img.shields.io/badge/Contact%20me-On%20Github-blue)](https://github.com/GODOP-ANKIT)  [![Replit](https://img.shields.io/badge/Contact%20me-On%20Replit-red)](https://replit.com/@GODOP-ANKIT)  [![Telegram](https://img.shields.io/badge/Contact%20me-On%20Telegram-black)](https://t.me/GODOPBOY)  [![Telegram](https://img.shields.io/badge/Contact%20me-On%20Telegram-black)](https://t.me/GODOP_ANKIT)  [![Email](https://img.shields.io/badge/Contact%20me-On%20Email-blue)](godopboy273@gmail.com)
 </details>
 
+<details>
+  <summary><h2 align="center"><b> ⠐ Github Stats ⠐ </b></h2></summary>
+  
 [![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODOP-ANKIT&show_icons=true&theme=midnight-purple)](https://github.com/GODOP-ANKIT)
 
 [![Ankit's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=GODOP-ANKIT&theme=midnight-purple&show_icon=true)](https://github.com/GODOP-ANKIT)
+</details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GODOP-ANKIT&layout=compact&theme=midnight-purple)](https://github.com/GODOP-ANKIT)
 
