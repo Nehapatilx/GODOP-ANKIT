@@ -47,7 +47,6 @@
   
 [![Ankit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=GODOP-ANKIT&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/GODOP-ANKIT)
 </details>
-<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Thank+You+🌷+Love+You+😝">
 
 <details>
   <summary><h2 align="center"><b> ⠐Metrics ⠐ </b></h2></summary>
@@ -69,6 +68,8 @@
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </details>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Thank+You+🌷+Love+You+😝">
 
 <!---
 GODOP-ANKIT/GODOP-ANKIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
