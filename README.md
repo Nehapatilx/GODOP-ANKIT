@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Github](https://img.shields.io/badge/Contact%20me-On%20Github-blue)](https://github.com/GODOP-ANKIT)
 
-[![Replit](https://img.shields.io/badge/Contact%20me-On%20Replit-blue)](https://replit.com/@GODOP-ANKIT)
+[![Replit](https://img.shields.io/badge/Contact%20me-On%20Replit-red)](https://replit.com/@GODOP-ANKIT)
 
 [![Telegram](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)](https://t.me/GODOPBOY)
 
