@@ -33,16 +33,19 @@
 
 <details>
   <summary>Metrics</summary>
+  
 [![Metrics](https://metrics.lecoq.io/GODOP-ANKIT?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://github.com/GODOP-ANKIT)
+
 </details>
 
 <details>
   <summary>Languages And Tools I love</summary>
       <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%23777BB4.svg?&style=for-the-badge&logo=Kotli &logoColor=white"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%23777BB4.svg?&style=for-the-badge&logo=kotli n&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="Replit"scr="https://img.shields.io/badge/replit-%23121011.svg?&style=for-the-badge&logo=replit&logoColor=white"/>
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
