@@ -34,10 +34,19 @@
 [![Ankit's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=GODOP-ANKIT&theme=midnight-purple&show_icon=true)](https://github.com/GODOP-ANKIT)
 </details>
 
+
+<details>
+  <summary><h2 align="center"><b> ⠐Most Used Languages ⠐ </b></h2></summary>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GODOP-ANKIT&layout=compact&theme=midnight-purple)](https://github.com/GODOP-ANKIT)
+</details>
 
+
+<details>
+  <summary><h2 align="center"><b> ⠐Contribution Graph ⠐ </b></h2></summary>
+  
 [![Ankit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=GODOP-ANKIT&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/GODOP-ANKIT)
-
+</details>
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Thank+You+🌷+Love+You+😝">
 
 <details>
