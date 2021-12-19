@@ -20,14 +20,14 @@
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODOP-ANKIT&show_icons=true&theme=midnight-purple)
+[![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODOP-ANKIT&show_icons=true&theme=midnight-purple)](https://github.com/GODOP-ANKIT)
 
-![Ankit's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=GODOP-ANKIT&theme=midnight-purple&show_icon=true)
+[![Ankit's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=GODOP-ANKIT&theme=midnight-purple&show_icon=true)](https://github.com/GODOP-ANKIT)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GODOP-ANKIT&layout=compact&theme=midnight-purple)](https://github.com/GODOP-ANKIT)
 
 
-![Ankit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=GODOP-ANKIT&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+[![Ankit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=GODOP-ANKIT&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/GODOP-ANKIT)
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Thank+You+🌷+Love+You+😝">
 
