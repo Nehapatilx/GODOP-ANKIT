@@ -27,7 +27,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GODOP-ANKIT&layout=compact&theme=midnight-purple)](https://github.com/GODOP-ANKIT)
 
 
-![Ankit's Activity Stats](https://activity-graph.herokuapp.com/graph?username=GODOP-ANKIT&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+![Ankit's Contribution Graphs](https://activity-graph.herokuapp.com/graph?username=GODOP-ANKIT&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Thank+You+🌷+Love+You+😝">
 
