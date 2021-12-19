@@ -3,8 +3,7 @@
   &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </h1>
 
-<details>
-  <summary><h2 align="center"><b> ⠐Personal Information ⠐ </b></h2></summary>
+<h2 align="center"><b> ⠐Personal Information ⠐ </b></h2>
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ┣•➳➠ ```Name``` : ```Ankit Kumar```
@@ -33,7 +32,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Thank+You+🌷+Love+You+😝">
 
 [![Metrics](https://metrics.lecoq.io/GODOP-ANKIT?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/GODOPBOY)
-</details>
+
 
 <!---
 GODOP-ANKIT/GODOP-ANKIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
