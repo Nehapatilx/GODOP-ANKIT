@@ -1,5 +1,3 @@
-<details>
-  <summary>🔰Just For Chill Don't Take Seriosly🔰</summary>
      <details>
         <summary>🔰First🔰</summary>
            『ɢɪʀʟғʀɪᴇɴᴅ अपनी हो या पराई सबसे प्यार करो,
