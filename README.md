@@ -12,8 +12,6 @@
 
 ┣•➳➠ ```Country``` : ```India```
 
-┣•➳➠```Github Id```: [©ANKIT™](https://github.com/GODOP-ANKIT)
-
 ┣•➳➠```School```:```JAWAHAR NAVODAYA VIDYALAYA PALGHAR/THANE```
 
 ┣•➳➠```Class```:```9th```
