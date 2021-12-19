@@ -20,6 +20,9 @@
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+[![Github](https://img.shields.io/badge/Contact%20me-On%20Github-blue)](https://github.com/GODOP-ANKIT)  [![Replit](https://img.shields.io/badge/Contact%20me-On%20Replit-red)](https://replit.com/@GODOP-ANKIT)  [![Telegram](https://img.shields.io/badge/Contact%20me-On%20Telegram-black)](https://t.me/GODOPBOY)  [![Telegram](https://img.shields.io/badge/Contact%20me-On%20Telegram-black)](https://t.me/GODOP_ANKIT)
+
+
 [![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODOP-ANKIT&show_icons=true&theme=midnight-purple)](https://github.com/GODOP-ANKIT)
 
 [![Ankit's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=GODOP-ANKIT&theme=midnight-purple&show_icon=true)](https://github.com/GODOP-ANKIT)
@@ -41,5 +44,3 @@
 GODOP-ANKIT/GODOP-ANKIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> 
-
-[![Github](https://img.shields.io/badge/Contact%20me-On%20Github-blue)](https://github.com/GODOP-ANKIT)  [![Replit](https://img.shields.io/badge/Contact%20me-On%20Replit-red)](https://replit.com/@GODOP-ANKIT)  [![Telegram](https://img.shields.io/badge/Contact%20me-On%20Telegram-black)](https://t.me/GODOPBOY)  [![Telegram](https://img.shields.io/badge/Contact%20me-On%20Telegram-black)](https://t.me/GODOP_ANKIT)
