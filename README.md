@@ -46,6 +46,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Replit](https://img.shields.io/badge/Contact%20me-On%20Replit-red)](https://replit.com/@GODOP-ANKIT)
 
-[![Telegram](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)](https://t.me/GODOPBOY)
+[![Telegram](https://img.shields.io/badge/Contact%20me-On%20Telegram-black)](https://t.me/GODOPBOY)
 
-[![Telegram](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)](https://t.me/GODOP_ANKIT)
+[![Telegram](https://img.shields.io/badge/Contact%20me-On%20Telegram-black)](https://t.me/GODOP_ANKIT)
