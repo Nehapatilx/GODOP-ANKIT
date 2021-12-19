@@ -3,7 +3,8 @@
   &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </h1>
 
-<h2 align="center"><b> ⠐Personal Information ⠐ </b></h2>
+<details>
+   <summary><h2 align="center"><b> ⠐Personal Information ⠐ </b></h2></summary>
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ┣•➳➠ ```Name``` : ```Ankit Kumar```
@@ -17,7 +18,8 @@
 ┣•➳➠```Class```:```9th```
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+</details>
+  
 <details>
   <summary><h2 align="center"><b> ⠐Contact Me On ⠐ </b></h2></summary>
   
