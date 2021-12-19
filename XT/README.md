@@ -1,7 +1,7 @@
 <details>
   <summary>Languages And Tools I love</summary>
       <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%23777BB4.svg?&style=for-the-badge&logo=Kotli &logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -15,3 +15,5 @@
 
 
 <img alt="Replit" src="https://img.shields.io/badge/replit-%23121011.svg?&style=for-the-badge&logo=replit&logoColor=white"/>
+
+ <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
