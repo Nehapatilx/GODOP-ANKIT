@@ -55,8 +55,8 @@ h2 align="center"><b> ⠐Personal Information ⠐ </b></h2>
 
 </details>
 
-<details>
-  <summary><h2 align="center"><b> • Languages And Tools I love• </b></h2></summary>
+
+  <h2 align="center"><b> • Languages And Tools I love• </b></h2>
       <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
       <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%23121011.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
@@ -67,7 +67,7 @@ h2 align="center"><b> ⠐Personal Information ⠐ </b></h2>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</details>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=Thank+You+🌷+Love+You+😝">
 
