@@ -3,8 +3,8 @@
   &nbsp; <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 </h1>
 
-<details>
-   <summary><h2 align="center"><b> ⠐Personal Information ⠐ </b></h2></summary>
+
+h2 align="center"><b> ⠐Personal Information ⠐ </b></h2>
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ┣•➳➠ ```Name``` : ```Ankit Kumar```
@@ -18,16 +18,16 @@
 ┣•➳➠```Class```:```9th```
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</details>
+
   
-<details>
-  <summary><h2 align="center"><b> ⠐Contact Me On ⠐ </b></h2></summary>
+
+ <h2 align="center"><b> ⠐Contact Me On ⠐ </b></h2>
   
 [![Github](https://img.shields.io/badge/Contact%20me-On%20Github-blue)](https://github.com/GODOP-ANKIT)  [![Replit](https://img.shields.io/badge/Contact%20me-On%20Replit-red)](https://replit.com/@GODOP-ANKIT)  [![Telegram](https://img.shields.io/badge/Contact%20me-On%20Telegram-black)](https://t.me/GODOPBOY)  [![Telegram](https://img.shields.io/badge/Contact%20me-On%20Telegram-black)](https://t.me/GODOP_ANKIT)  [![Email](https://img.shields.io/badge/Contact%20me-On%20Email-blue)](godopboy273@gmail.com)
-</details>
 
-<details>
-  <summary><h2 align="center"><b> ⠐ Github Stats ⠐ </b></h2></summary>
+
+
+<h2 align="center"><b> ⠐ Github Stats ⠐ </b></h2>
   
 [![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=GODOP-ANKIT&show_icons=true&theme=midnight-purple)](https://github.com/GODOP-ANKIT)
 
