@@ -35,18 +35,18 @@ h2 align="center"><b> ⠐Personal Information ⠐ </b></h2>
 </details>
 
 
-<details>
-  <summary><h2 align="center"><b> ⠐Most Used Languages ⠐ </b></h2></summary>
+
+ <h2 align="center"><b> ⠐Most Used Languages ⠐ </b></h2>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GODOP-ANKIT&layout=compact&theme=midnight-purple)](https://github.com/GODOP-ANKIT)
-</details>
 
 
-<details>
-  <summary><h2 align="center"><b> ⠐Contribution Graph ⠐ </b></h2></summary>
+
+
+<h2 align="center"><b> ⠐Contribution Graph ⠐ </b></h2>
   
 [![Ankit's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=GODOP-ANKIT&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)](https://github.com/GODOP-ANKIT)
-</details>
+
 
 <details>
   <summary><h2 align="center"><b> ⠐Metrics ⠐ </b></h2></summary>
